@@ -170,11 +170,11 @@
             <script>
               document.write(new Date().getFullYear());
             </script>
-            © SMAN 8 Bandar Lampung
+            © Blaahhh
           </div>
           <div class="col-sm-6">
             <div class="text-sm-end d-none d-sm-block">
-              Developed by Najib Wiharjanto
+              Developed by AntolKun
             </div>
           </div>
         </div>
